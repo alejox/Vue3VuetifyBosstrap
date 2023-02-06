@@ -17,5 +17,4 @@ app.use(router)
 app.use(store)
 app.use(BootstrapVue3)
 app.use(VueTelInput)
-app.use(VueApexCharts)
 app.mount("#app");
